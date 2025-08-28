@@ -1,0 +1,11 @@
+C:\Users\delar\Desktop\ajc formation\C#\Atelier08_Starter\Info\bin\Debug\net9.0\Info.deps.json
+C:\Users\delar\Desktop\ajc formation\C#\Atelier08_Starter\Info\bin\Debug\net9.0\Info.dll
+C:\Users\delar\Desktop\ajc formation\C#\Atelier08_Starter\Info\bin\Debug\net9.0\Info.pdb
+C:\Users\delar\Desktop\ajc formation\C#\Atelier08_Starter\Info\obj\Debug\net9.0\Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delar\Desktop\ajc formation\C#\Atelier08_Starter\Info\obj\Debug\net9.0\Info.AssemblyInfoInputs.cache
+C:\Users\delar\Desktop\ajc formation\C#\Atelier08_Starter\Info\obj\Debug\net9.0\Info.AssemblyInfo.cs
+C:\Users\delar\Desktop\ajc formation\C#\Atelier08_Starter\Info\obj\Debug\net9.0\Info.csproj.CoreCompileInputs.cache
+C:\Users\delar\Desktop\ajc formation\C#\Atelier08_Starter\Info\obj\Debug\net9.0\Info.dll
+C:\Users\delar\Desktop\ajc formation\C#\Atelier08_Starter\Info\obj\Debug\net9.0\refint\Info.dll
+C:\Users\delar\Desktop\ajc formation\C#\Atelier08_Starter\Info\obj\Debug\net9.0\Info.pdb
+C:\Users\delar\Desktop\ajc formation\C#\Atelier08_Starter\Info\obj\Debug\net9.0\ref\Info.dll

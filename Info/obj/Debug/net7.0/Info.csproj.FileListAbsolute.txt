@@ -1,0 +1,12 @@
+C:\Users\Nicolas\Downloads\SOPRA_Atelier06_Starter\Info\bin\Debug\net7.0\Info.deps.json
+C:\Users\Nicolas\Downloads\SOPRA_Atelier06_Starter\Info\bin\Debug\net7.0\Info.dll
+C:\Users\Nicolas\Downloads\SOPRA_Atelier06_Starter\Info\bin\Debug\net7.0\Info.pdb
+C:\Users\Nicolas\Downloads\SOPRA_Atelier06_Starter\Info\obj\Debug\net7.0\Info.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Downloads\SOPRA_Atelier06_Starter\Info\obj\Debug\net7.0\Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Downloads\SOPRA_Atelier06_Starter\Info\obj\Debug\net7.0\Info.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Downloads\SOPRA_Atelier06_Starter\Info\obj\Debug\net7.0\Info.AssemblyInfo.cs
+C:\Users\Nicolas\Downloads\SOPRA_Atelier06_Starter\Info\obj\Debug\net7.0\Info.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Downloads\SOPRA_Atelier06_Starter\Info\obj\Debug\net7.0\Info.dll
+C:\Users\Nicolas\Downloads\SOPRA_Atelier06_Starter\Info\obj\Debug\net7.0\refint\Info.dll
+C:\Users\Nicolas\Downloads\SOPRA_Atelier06_Starter\Info\obj\Debug\net7.0\Info.pdb
+C:\Users\Nicolas\Downloads\SOPRA_Atelier06_Starter\Info\obj\Debug\net7.0\ref\Info.dll

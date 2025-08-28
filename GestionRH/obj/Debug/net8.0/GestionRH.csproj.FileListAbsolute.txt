@@ -1,0 +1,5 @@
+C:\Users\delar\Desktop\ajc formation\C#\Atelier08_Starter\GestionRH\obj\Debug\net8.0\GestionRH.csproj.AssemblyReference.cache
+C:\Users\delar\Desktop\ajc formation\C#\Atelier08_Starter\GestionRH\obj\Debug\net8.0\GestionRH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delar\Desktop\ajc formation\C#\Atelier08_Starter\GestionRH\obj\Debug\net8.0\GestionRH.AssemblyInfoInputs.cache
+C:\Users\delar\Desktop\ajc formation\C#\Atelier08_Starter\GestionRH\obj\Debug\net8.0\GestionRH.AssemblyInfo.cs
+C:\Users\delar\Desktop\ajc formation\C#\Atelier08_Starter\GestionRH\obj\Debug\net8.0\GestionRH.csproj.CoreCompileInputs.cache
